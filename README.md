@@ -30,4 +30,5 @@
 |:---------:|:---------:|
 |![Alt-текст](https://sun9-51.userapi.com/impf/doitF71Mww8Anb7UVpPkyd2Ph401Up_aNqV-Dg/0K81nFFzM4I.jpg?size=720x1600&quality=96&sign=cc726581a8b5bb99a026bfcbe2d4aaf6&type=album)|![Alt-текст](https://sun9-85.userapi.com/impf/TDg_RPh47QypYjDvZANcr_jlQwexLhk1A1qO8g/4BO6WmdaP5s.jpg?size=720x1600&quality=96&sign=000bb5ea10326bdf8d7b157f711f2c7d&type=album)|
 
-
+## Unit tests - Юнит тесты
+Бот имеет частичное покрытие юнит тестами.

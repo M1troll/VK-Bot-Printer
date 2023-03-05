@@ -1,3 +1,5 @@
+### Languages: [RU](https://github.com/M1troll/VK-Bot-Printer/edit/main/README.md)| [EN](https://github.com/M1troll/VK-Bot-Printer/edit/main/README_EN.md)
+
 # VK-Bot-Printer
 Bot for VKontakte social network that allows you to print documents and photos sent to him.
 

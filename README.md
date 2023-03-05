@@ -1,3 +1,5 @@
+### Languages: [RU](https://github.com/M1troll/VK-Bot-Printer/edit/main/README.md)| [EN](https://github.com/M1troll/VK-Bot-Printer/edit/main/README_EN.md)
+
 # VK-Bot-Printer
 Бот для социальной сети ВКонтакте, позволяющий распечатывать присланные ему документы и фотографии.
 
